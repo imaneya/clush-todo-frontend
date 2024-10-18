@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15" version="24.8.0">
+  <diagram name="페이지-1" id="zdVAAs_7YL6r-_0mriZx">
+    <mxGraphModel dx="954" dy="1706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Aph8lOE2yrZC84DxHlcv-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-1130" width="750" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="Aph8lOE2yrZC84DxHlcv-2" value="To-Do App DB생성" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-1090" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Aph8lOE2yrZC84DxHlcv-3" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-940" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Aph8lOE2yrZC84DxHlcv-4" value="DB명" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-980" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Aph8lOE2yrZC84DxHlcv-5" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-850" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Aph8lOE2yrZC84DxHlcv-6" value="계정ID" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-890" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Aph8lOE2yrZC84DxHlcv-7" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-760" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Aph8lOE2yrZC84DxHlcv-8" value="계정PW" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-800" width="260" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
