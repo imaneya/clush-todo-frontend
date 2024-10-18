@@ -6,6 +6,9 @@ Front end is developed using react.
 
 #How to Run Application
 
+Install Mysql and Create DB, Create Table
+In /mysql directory, executiion mysql.sql
+
 Install node to run react app (frontend).
 In /frontend directory, run the application
 cd /frontend
