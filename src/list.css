@@ -1,0 +1,19 @@
+.ant-input-search-button {
+    margin: 0px;
+}
+
+.ant-form-vertical {
+    --box-shadow:initial;
+    border: none;
+}
+
+.ant-input {
+    width: 100%;
+}
+
+#title {
+    width: 100%;
+}
+
+/* ant-input css-dev-only-do-not-override-ni1kz0 ant-input-outlined */
+/* ant-form ant-form-vertical css-dev-only-do-not-override-ni1kz0 */
